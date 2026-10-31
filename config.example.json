@@ -1,0 +1,13 @@
+{
+    "api_id": 12345678,
+    "api_hash": "abcdef0123456789abcdef0123456789",
+    "phone_number": "+1234567890",
+    "source_channel": "https://t.me/+YourInviteHashOrUsername",
+    "target_bot": "@YourTargetBot",
+    "batch_size": 100,
+    "min_delay_seconds": 3.0,
+    "max_delay_seconds": 5.5,
+    "batch_wait_seconds": 30.0,
+    "button_1_text_or_index": "Generate code",
+    "button_2_text_or_index": "Generate"
+}

@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User configuration & credentials (STRICTLY PRIVATE)
+config.json
+.env
+
+# Telegram Session files (contains auth keys)
+*.session
+*.session-journal
+
+# Progress & Logs
+progress.json
+progress.json.tmp
+forwarder.log
+*.log
+
+# Output links & codes
+generated_links.txt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
